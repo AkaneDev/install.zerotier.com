@@ -27,7 +27,6 @@ jobs:
       matrix:
         container:
           - "ubuntu:latest"
-          - "ubuntu:24.10"
           - "ubuntu:24.04"
           - "ubuntu:22.04"
           - "ubuntu:20.04"
